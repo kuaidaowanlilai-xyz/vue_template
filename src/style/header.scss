@@ -1,0 +1,16 @@
+.header{
+    width: 100%;
+    height: 35px;
+    background-color: $Brand;
+    color: #fff;
+    line-height: 35px;
+    .left{
+        float: left;
+        .logbut{
+            cursor: pointer;
+        }
+    }
+    .right{
+        float: right;
+    }
+}
